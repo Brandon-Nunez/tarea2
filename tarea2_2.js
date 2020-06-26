@@ -1,5 +1,5 @@
-let x = 400;
-let y = 0;
+var x = 400;
+var y = 0;
 
 
 function setup() {
